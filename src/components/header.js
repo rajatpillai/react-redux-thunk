@@ -22,7 +22,7 @@ class Header extends Component {
       <div className="container">
         <nav className="navbar navbar-expand-sm">
           <div className="col-6 pl-0">
-            <img src={logo} className="App-logoTop" />
+            <img src={logo} alt="logo" className="App-logoTop" />
           </div>  
           <div className="col-6">
             <nav className="fill">
